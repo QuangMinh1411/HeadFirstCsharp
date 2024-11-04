@@ -1,0 +1,14 @@
+E:\Quang\Milecinious\HeadFirstC#\Chapter1\MyFirstConsoleApp\bin\Debug\net8.0\MyFirstConsoleApp.exe
+E:\Quang\Milecinious\HeadFirstC#\Chapter1\MyFirstConsoleApp\bin\Debug\net8.0\MyFirstConsoleApp.deps.json
+E:\Quang\Milecinious\HeadFirstC#\Chapter1\MyFirstConsoleApp\bin\Debug\net8.0\MyFirstConsoleApp.runtimeconfig.json
+E:\Quang\Milecinious\HeadFirstC#\Chapter1\MyFirstConsoleApp\bin\Debug\net8.0\MyFirstConsoleApp.dll
+E:\Quang\Milecinious\HeadFirstC#\Chapter1\MyFirstConsoleApp\bin\Debug\net8.0\MyFirstConsoleApp.pdb
+E:\Quang\Milecinious\HeadFirstC#\Chapter1\MyFirstConsoleApp\obj\Debug\net8.0\MyFirstConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+E:\Quang\Milecinious\HeadFirstC#\Chapter1\MyFirstConsoleApp\obj\Debug\net8.0\MyFirstConsoleApp.AssemblyInfoInputs.cache
+E:\Quang\Milecinious\HeadFirstC#\Chapter1\MyFirstConsoleApp\obj\Debug\net8.0\MyFirstConsoleApp.AssemblyInfo.cs
+E:\Quang\Milecinious\HeadFirstC#\Chapter1\MyFirstConsoleApp\obj\Debug\net8.0\MyFirstConsoleApp.csproj.CoreCompileInputs.cache
+E:\Quang\Milecinious\HeadFirstC#\Chapter1\MyFirstConsoleApp\obj\Debug\net8.0\MyFirstConsoleApp.dll
+E:\Quang\Milecinious\HeadFirstC#\Chapter1\MyFirstConsoleApp\obj\Debug\net8.0\refint\MyFirstConsoleApp.dll
+E:\Quang\Milecinious\HeadFirstC#\Chapter1\MyFirstConsoleApp\obj\Debug\net8.0\MyFirstConsoleApp.pdb
+E:\Quang\Milecinious\HeadFirstC#\Chapter1\MyFirstConsoleApp\obj\Debug\net8.0\MyFirstConsoleApp.genruntimeconfig.cache
+E:\Quang\Milecinious\HeadFirstC#\Chapter1\MyFirstConsoleApp\obj\Debug\net8.0\ref\MyFirstConsoleApp.dll
