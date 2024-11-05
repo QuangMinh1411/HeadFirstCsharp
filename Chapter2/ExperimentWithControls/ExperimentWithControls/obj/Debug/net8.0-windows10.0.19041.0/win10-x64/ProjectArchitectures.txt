@@ -1,0 +1,1 @@
+E:\Quang\Milecinious\HeadFirstC#\Chapter2\ExperimentWithControls\ExperimentWithControls\ExperimentWithControls.csproj;x64

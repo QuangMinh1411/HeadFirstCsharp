@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Quang\\Milecinious\\HeadFirstC#\\Chapter2\\ExperimentWithControls\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AB941C91-B9B6-415F-94F0-46FC7AEE44C8}|ExperimentWithControls\\ExperimentWithControls.csproj|e:\\quang\\milecinious\\headfirstc#\\chapter2\\experimentwithcontrols\\experimentwithcontrols\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB941C91-B9B6-415F-94F0-46FC7AEE44C8}|ExperimentWithControls\\ExperimentWithControls.csproj|solutionrelative:experimentwithcontrols\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB941C91-B9B6-415F-94F0-46FC7AEE44C8}|ExperimentWithControls\\ExperimentWithControls.csproj|e:\\quang\\milecinious\\headfirstc#\\chapter2\\experimentwithcontrols\\experimentwithcontrols\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{AB941C91-B9B6-415F-94F0-46FC7AEE44C8}|ExperimentWithControls\\ExperimentWithControls.csproj|solutionrelative:experimentwithcontrols\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainPage.xaml.cs",
+              "DocumentMoniker": "E:\\Quang\\Milecinious\\HeadFirstC#\\Chapter2\\ExperimentWithControls\\ExperimentWithControls\\MainPage.xaml.cs",
+              "RelativeDocumentMoniker": "ExperimentWithControls\\MainPage.xaml.cs",
+              "ToolTip": "E:\\Quang\\Milecinious\\HeadFirstC#\\Chapter2\\ExperimentWithControls\\ExperimentWithControls\\MainPage.xaml.cs",
+              "RelativeToolTip": "ExperimentWithControls\\MainPage.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T03:00:06.337Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainPage.xaml",
+              "DocumentMoniker": "E:\\Quang\\Milecinious\\HeadFirstC#\\Chapter2\\ExperimentWithControls\\ExperimentWithControls\\MainPage.xaml",
+              "RelativeDocumentMoniker": "ExperimentWithControls\\MainPage.xaml",
+              "ToolTip": "E:\\Quang\\Milecinious\\HeadFirstC#\\Chapter2\\ExperimentWithControls\\ExperimentWithControls\\MainPage.xaml",
+              "RelativeToolTip": "ExperimentWithControls\\MainPage.xaml",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAAAEAAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-05T03:00:09.441Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
